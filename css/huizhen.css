@@ -11,7 +11,7 @@
 }
 
 .video {
-    background-image: url("/static/ic_videocam_24px.svg"); /* The image used */
+    background-image: url("https://cdn.jsdelivr.net/gh/jack597/dist/image/a003.svg"); /* The image used */
     /*{#background-color: #cccccc; /* Used if the image is unavailable */
     height: 22px; /* You must set a specified height */
     background-position: center; /* Center the image */
@@ -20,25 +20,7 @@
 }
 
 .audio {
-    background-image: url("/static/ic_audio_speaker_on_24px.svg"); /* The image used */
-    /*background-color: #cccccc; /* Used if the image is unavailable */
-    height: 22px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-}
-
-.book {
-    background-image: url("/static/ic_book_24px.svg"); /* The image used */
-    /*background-color: #cccccc; /* Used if the image is unavailable */
-    height: 22px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-}
-
-.more {
-    background-image: url("/static/ic_expand_more_24dp.svg"); /* The image used */
+    background-image: url("https://cdn.jsdelivr.net/gh/jack597/dist/image/a004.svg"); /* The image used */
     /*background-color: #cccccc; /* Used if the image is unavailable */
     height: 22px; /* You must set a specified height */
     background-position: center; /* Center the image */
