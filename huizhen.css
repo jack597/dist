@@ -1,0 +1,47 @@
+.category {
+    border-radius: .50rem .50rem .0rem .0rem;
+    background-color: #3c55b1 !important;
+}
+
+.icon {
+    width: 22px;
+    min-height: 22px;
+    color: #a7c6db;
+    float: left
+}
+
+.video {
+    background-image: url("/static/ic_videocam_24px.svg"); /* The image used */
+    /*{#background-color: #cccccc; /* Used if the image is unavailable */
+    height: 22px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.audio {
+    background-image: url("/static/ic_audio_speaker_on_24px.svg"); /* The image used */
+    /*background-color: #cccccc; /* Used if the image is unavailable */
+    height: 22px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.book {
+    background-image: url("/static/ic_book_24px.svg"); /* The image used */
+    /*background-color: #cccccc; /* Used if the image is unavailable */
+    height: 22px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.more {
+    background-image: url("/static/ic_expand_more_24dp.svg"); /* The image used */
+    /*background-color: #cccccc; /* Used if the image is unavailable */
+    height: 22px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
